@@ -20,7 +20,7 @@ Noise Next steps through a list of quiet frequencies (one per band), reads the r
 - Instrument-style display: dBm readout, analogue S-meter with the baseline mark
 - English and Hungarian user interface
 
-![Heatmap view](docs/screenshot-heatmap.png)
+![Heatmap view](screenshot-heatmap.png)
 
 ## Download and run
 
