@@ -6,7 +6,7 @@ Noise Next steps through a list of quiet frequencies (one per band), reads the r
 
 **The program only receives. It never transmits.**
 
-![Timeline view](docs/screenshot-timeline.png)
+![Timeline view](screenshot-timeline.png)
 
 ## Features
 
