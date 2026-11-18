@@ -1,2 +1,2 @@
 # Noise_Next
-SWR curve meter for the Yaesu FT-891 – first public beta, now for **Linux and Windows**.
+**HF noise floor logger for the Yaesu FT-891** – Linux and Windows. Optional Hamlib support for other radios (Linux).
